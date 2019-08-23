@@ -3,7 +3,7 @@
 * Use for batch processing or just as an on demand services, all GPU accelerated
 
 ## Run on colab
-Open the notebook on colab, upload the labels file and run all
+Open the notebook on [colab](https://colab.research.google.com) and follow the instructions
 
 ## Run app locally
 Run the flask app:
